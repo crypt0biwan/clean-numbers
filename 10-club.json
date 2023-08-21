@@ -9,15 +9,15 @@
     "website_link": "",
     "discord_link": "",
     "collection_items": [
-        { "ethscription_id": "0x1e3c436da52475cebf250939f055c9e591c1027795112f22ca9325d7f6643918", "name": "0", "item_index": 0, "item_attribues": [{ "ethscription_number": 12246 }, { "sub100k": true }] },
-        { "ethscription_id": "0x4949dcb16a91b85fe317454ffb716bcf3fc912567ed0d0888d72249582da280b", "name": "1", "item_index": 1, "item_attribues": [{ "ethscription_number": 12509 }, { "sub100k": true }] },
-        { "ethscription_id": "0x5dafdacd1a88001501ca63fddbe7cb8877da3a3435429a02d18b7dc4c375bf47", "name": "2", "item_index": 2, "item_attribues": [{ "ethscription_number": 12513 }, { "sub100k": true }] },
-        { "ethscription_id": "0x0783adb035273a60ed7f138f090a973905cac0dd4cd273b116e6cf1e96c04779", "name": "3", "item_index": 3, "item_attribues": [{ "ethscription_number": 12517 }, { "sub100k": true }] },
-        { "ethscription_id": "0xf49a061b9aa061d055cd53eb1960c353ffb8105984a30506fb773776663ec73b", "name": "4", "item_index": 4, "item_attribues": [{ "ethscription_number": 12518 }, { "sub100k": true }] },
-        { "ethscription_id": "0x45b25a017395c79881086ae810b83c231cdfb117471ec7cd65eb0ccd404fadbe", "name": "5", "item_index": 5, "item_attribues": [{ "ethscription_number": 12524 }, { "sub100k": true }] },
-        { "ethscription_id": "0x0e4a477a519369ef41e83ddbf2e65caa348f9c9cadf042068f97c1d2a0b2eb9c", "name": "6", "item_index": 6, "item_attribues": [{ "ethscription_number": 12527 }, { "sub100k": true }] },
-        { "ethscription_id": "0x3291d3313d1a6d8cab30fef814d9491014960ee3d16417ee8fb50632844508fe", "name": "7", "item_index": 7, "item_attribues": [{ "ethscription_number": 12528 }, { "sub100k": true }] },
-        { "ethscription_id": "0x9be40767c611388455e711e106f3747a2b8ffaa0899810be7168e1a1cce3881e", "name": "8", "item_index": 8, "item_attribues": [{ "ethscription_number": 12532 }, { "sub100k": true }] },
-        { "ethscription_id": "0x8c0f84d645a542375c37e210dac7e8a0a03e359e2782610bbeea0bbfc04e9ab9", "name": "9", "item_index": 9, "item_attribues": [{ "ethscription_number": 12536 }, { "sub100k": true }] }
+        { "ethscription_id": "0x1e3c436da52475cebf250939f055c9e591c1027795112f22ca9325d7f6643918", "name": "0", "item_index": 0, "item_attributes": [{ "ethscription_number": 12246 }, { "sub100k": true }] },
+        { "ethscription_id": "0x4949dcb16a91b85fe317454ffb716bcf3fc912567ed0d0888d72249582da280b", "name": "1", "item_index": 1, "item_attributes": [{ "ethscription_number": 12509 }, { "sub100k": true }] },
+        { "ethscription_id": "0x5dafdacd1a88001501ca63fddbe7cb8877da3a3435429a02d18b7dc4c375bf47", "name": "2", "item_index": 2, "item_attributes": [{ "ethscription_number": 12513 }, { "sub100k": true }] },
+        { "ethscription_id": "0x0783adb035273a60ed7f138f090a973905cac0dd4cd273b116e6cf1e96c04779", "name": "3", "item_index": 3, "item_attributes": [{ "ethscription_number": 12517 }, { "sub100k": true }] },
+        { "ethscription_id": "0xf49a061b9aa061d055cd53eb1960c353ffb8105984a30506fb773776663ec73b", "name": "4", "item_index": 4, "item_attributes": [{ "ethscription_number": 12518 }, { "sub100k": true }] },
+        { "ethscription_id": "0x45b25a017395c79881086ae810b83c231cdfb117471ec7cd65eb0ccd404fadbe", "name": "5", "item_index": 5, "item_attributes": [{ "ethscription_number": 12524 }, { "sub100k": true }] },
+        { "ethscription_id": "0x0e4a477a519369ef41e83ddbf2e65caa348f9c9cadf042068f97c1d2a0b2eb9c", "name": "6", "item_index": 6, "item_attributes": [{ "ethscription_number": 12527 }, { "sub100k": true }] },
+        { "ethscription_id": "0x3291d3313d1a6d8cab30fef814d9491014960ee3d16417ee8fb50632844508fe", "name": "7", "item_index": 7, "item_attributes": [{ "ethscription_number": 12528 }, { "sub100k": true }] },
+        { "ethscription_id": "0x9be40767c611388455e711e106f3747a2b8ffaa0899810be7168e1a1cce3881e", "name": "8", "item_index": 8, "item_attributes": [{ "ethscription_number": 12532 }, { "sub100k": true }] },
+        { "ethscription_id": "0x8c0f84d645a542375c37e210dac7e8a0a03e359e2782610bbeea0bbfc04e9ab9", "name": "9", "item_index": 9, "item_attributes": [{ "ethscription_number": 12536 }, { "sub100k": true }] }
     ]
 }
